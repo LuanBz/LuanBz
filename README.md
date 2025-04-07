@@ -12,8 +12,8 @@
 
 ## Status
 <a href="https://github.com/luanbz/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luanbz&show_icons=true&theme=dark&hide_border=true&locale=pt-br&border_radius=20" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=luanbz&show_icons=true&theme=dark&hide_border=true&locale=pt-br&border_radius=20" />
 </a>
 <a href="https://github.com/luanbz/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanbz&layout=compact&border_radius=10&locale=pt-br&theme=dark&hide_border=true" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanbz&layout=compact&border_radius=10&locale=pt-br&theme=dark&hide_border=true" />
 </a>
